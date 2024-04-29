@@ -3,7 +3,7 @@ To compile the source, you need the QB64 Phoenix Edition, which can be found [he
 
 There are 6 files in this directory
 * quine2.bas - The complete quine, which reproduces itself.
-* quine2aw.bas - This is the original program without itself attached as data statements.
+* quine2raw.bas - This is the original program without itself attached as data statements.
 * dataconvert.bas - The program that reads another program and trranslates it to decimal data.
 * Common_Dialog_Prefix.bi - Support values for dataconvert to use the Windows File Open dialog window.
 * Common_Dialog_Suffix.bi - Support SUBroutines for dataconvert to use the Windows File Open dialog window.
